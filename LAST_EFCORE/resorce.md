@@ -1,0 +1,1 @@
+https://app.pluralsight.com/library/courses/getting-started-entity-framework-core/table-of-contents
